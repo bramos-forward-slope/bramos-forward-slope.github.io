@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Billy Ramos
+url: http://bramos-forward-slope.github.io
+description: Billy R Ramos
+twitter: billyramoss
