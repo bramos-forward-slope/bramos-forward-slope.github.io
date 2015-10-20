@@ -9,6 +9,10 @@ category: posts
 
 ### Reporters
 1. Diff reporter
-        [UseReporter(typeof(DiffReporter))]
+```
+[UseReporter(typeof(DiffReporter))]
+```
 2. File Launcher reporter
-        [UseReporter(typeof(FileLauncherReporter))] 
+```
+[UseReporter(typeof(FileLauncherReporter))]
+``` 
